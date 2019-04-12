@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "angular-tut-2",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

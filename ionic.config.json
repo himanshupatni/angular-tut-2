@@ -1,5 +1,7 @@
 {
   "name": "angular-tut-2",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
